@@ -1,1 +1,1 @@
-# ist722dbt
+# ist722dbt-exercise-E
